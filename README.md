@@ -2,7 +2,7 @@
 
 I build latent-dynamics world models for industrial machines, and test whether they transfer to machines they were never trained on.
 
-Engineering student at Mines Nancy (Université de Lorraine), joining École des Ponts ParisTech in 2027.
+Engineering student at Mines Nancy (Université de Lorraine), joining École des Ponts (Institut Polytechnique de Paris) in 2027.
 
 **Research**
 
