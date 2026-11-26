@@ -12,6 +12,10 @@ Engineering student at Mines Nancy (Université de Lorraine), joining École des
 - Poster, BMVA Symposium on World Models (London, November 2026).
 - Next: extending the model to multi-machine fleets and transferable decision policies.
 
+**Community**
+
+- Co-initiator and co-organizer of [Hack the World(s)](https://www.hacktheworlds.fr), a student hackathon on world models (Paris, June 2026, 25 teams), with ESIEE Paris, Mines Nancy and the PR[AI]RIE AI cluster, in partnership with ACADI. The CNC project above grew out of it.
+
 **Background**
 
 Industrial engineering at Mines Nancy, a year of mechanical engineering at Mannheim University of Applied Sciences, and strategy, data & AI work at Atos (France and UK).
