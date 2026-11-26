@@ -14,7 +14,7 @@ Engineering student at Mines Nancy (Université de Lorraine), joining École des
 
 **Community**
 
-- Co-initiator and co-organizer of [Hack the World(s)](https://www.hacktheworlds.fr), a student hackathon on world models (Paris, June 2026, 25 teams), with ESIEE Paris, Mines Nancy and the PR[AI]RIE AI cluster, in partnership with ACADI. The CNC project above grew out of it.
+- Co-initiator and co-organizer of [Hack the World(s)](https://www.hacktheworlds.fr), a student hackathon on world models (Paris, June 2026, 25 teams), with ESIEE Paris, Mines Nancy/ACADI and the PR[AI]RIE AI cluster. The CNC project above grew out of it.
 
 **Background**
 
